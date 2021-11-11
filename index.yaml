@@ -1,16 +1,16 @@
 apiVersion: v1
 entries:
   ms-dep-pkg-cud:
-  - apiVersion: v2
-    appVersion: "1.0"
-    created: "2021-11-11T23:43:43.651988968Z"
+  - apiVersion: v3
+    appVersion: "1.1"
+    created: "2021-11-11T23:47:06.085921119Z"
     description: Dependency Packages
-    digest: fb00eb5ef4e2f22fbbf09307a494c524cb89d0d824df9fa9fa35db54cfabc41b
+    digest: 18d14c23aa220e5f271a80b3895313931bb77249d43c040c0db8baaf4e4bada6
     name: ms-dep-pkg-cud
     type: application
     urls:
-    - https://github.com/benhpoh/ortelius-ms-dep-pkg-cud/releases/download/ms-dep-pkg-cud-0.1.1/ms-dep-pkg-cud-0.1.1.tgz
-    version: 0.1.1
+    - https://github.com/benhpoh/ortelius-ms-dep-pkg-cud/releases/download/ms-dep-pkg-cud-0.1.2/ms-dep-pkg-cud-0.1.2.tgz
+    version: 0.1.2
   ms-general:
   - apiVersion: v1
     appVersion: "1.0"
@@ -51,4 +51,4 @@ entries:
     urls:
     - https://github.com/benhpoh/ortelius/releases/download/ortelius-console-0.1.0/ortelius-console-0.1.0.tgz
     version: 0.1.0
-generated: "2021-11-11T23:43:43.651994968Z"
+generated: "2021-11-11T23:47:06.085927219Z"
